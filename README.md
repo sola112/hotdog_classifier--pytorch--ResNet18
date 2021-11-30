@@ -1,4 +1,5 @@
 # hotdog_classifier---ResNet18
+## 中文注释（CN）
 
 ## Loss and accuracy in train and validation
 ![image](https://user-images.githubusercontent.com/41743814/143971912-d87f4e07-8908-46f0-89fd-016037d72f0e.png)
